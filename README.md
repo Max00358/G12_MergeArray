@@ -60,7 +60,6 @@ Sample Run 2:
     3
     0
 
-
     First Array:
     4 5 7 2
 
