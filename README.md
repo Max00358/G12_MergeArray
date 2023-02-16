@@ -26,7 +26,7 @@ Sample Run 1:
     9
     -1
 
-Enter the values for the second array, up to 10000 values, enter zero or a negative number to quit
+    Enter the values for the second array, up to 10000 values, enter zero or a negative number to quit
     3
     4
     5
